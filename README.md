@@ -5,6 +5,7 @@
 - 📫 How to reach me: daniel.ingram@ebenefactors.org
 - 🍀 I currently fundraise for Emergence Benefactors https://ebenefactors.org/ to support the Emergent Phenomenology Research Consortium https://theeprc.org/
 - 🌞 If you wish to support our work, click here: https://ebenefactors.org/?page_id=206 Thanks! 😊
+- 🧘🏽 PS I am the same Daniel Ingram as this one: https://github.com/danielmingram but that one is more focused on stuff specifically related to Buddhist meditation
 <!---
 DanielM-Ingram/DanielM-Ingram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
